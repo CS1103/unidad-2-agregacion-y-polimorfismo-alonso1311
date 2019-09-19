@@ -13,7 +13,7 @@ Volumen::~Volumen() {
 }
 
 void Volumen::mostrar() {
-    cout << "\tNombre: " << nombre << "\n\tN° volumen: " << numVol << endl;
+    cout << "\tNombre: " << nombre << "\n\tN volumen: " << numVol << endl;
 }
 
 int Volumen::getCantidad() {

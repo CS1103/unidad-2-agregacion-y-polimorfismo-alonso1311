@@ -4,7 +4,9 @@
 
 #include "Biblioteca.h"
 
-Biblioteca::Biblioteca() : maxLibros{0}, maxRevistas{0}, vol{nullptr} {}
+Biblioteca::Biblioteca() : maxLibros{0}, maxRevistas{0} {
+    vol = new vector<Volumen>;
+}
 
 void Biblioteca::incluir(Volumen v) {
     vol->push_back(v);
