@@ -1,0 +1,3 @@
+C:/Users/ALONSO/CLionProjects/POO II_Second/Agregacion_Y_Polimorfismo/cmake-build-debug/CMakeFiles/Agregacion_Y_Polimorfismo.dir
+C:/Users/ALONSO/CLionProjects/POO II_Second/Agregacion_Y_Polimorfismo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ALONSO/CLionProjects/POO II_Second/Agregacion_Y_Polimorfismo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
