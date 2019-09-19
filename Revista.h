@@ -15,6 +15,8 @@ public:
 
     void mostrar() override ;
 
+    int getCantidad() override;
+
     virtual ~Revista();
 };
 

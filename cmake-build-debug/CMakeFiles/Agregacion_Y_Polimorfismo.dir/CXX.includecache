@@ -1,0 +1,58 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ALONSO/CLionProjects/POO II_Second/Agregacion_Y_Polimorfismo/Biblioteca.cpp
+Biblioteca.h
+C:/Users/ALONSO/CLionProjects/POO II_Second/Agregacion_Y_Polimorfismo/Biblioteca.h
+
+C:/Users/ALONSO/CLionProjects/POO II_Second/Agregacion_Y_Polimorfismo/Biblioteca.h
+Definiciones.h
+C:/Users/ALONSO/CLionProjects/POO II_Second/Agregacion_Y_Polimorfismo/Definiciones.h
+Volumen.h
+C:/Users/ALONSO/CLionProjects/POO II_Second/Agregacion_Y_Polimorfismo/Volumen.h
+
+C:/Users/ALONSO/CLionProjects/POO II_Second/Agregacion_Y_Polimorfismo/Definiciones.h
+iostream
+-
+string
+-
+vector
+-
+
+C:/Users/ALONSO/CLionProjects/POO II_Second/Agregacion_Y_Polimorfismo/Libro.cpp
+Libro.h
+C:/Users/ALONSO/CLionProjects/POO II_Second/Agregacion_Y_Polimorfismo/Libro.h
+
+C:/Users/ALONSO/CLionProjects/POO II_Second/Agregacion_Y_Polimorfismo/Libro.h
+
+C:/Users/ALONSO/CLionProjects/POO II_Second/Agregacion_Y_Polimorfismo/Revista.cpp
+Revista.h
+C:/Users/ALONSO/CLionProjects/POO II_Second/Agregacion_Y_Polimorfismo/Revista.h
+
+C:/Users/ALONSO/CLionProjects/POO II_Second/Agregacion_Y_Polimorfismo/Revista.h
+
+C:/Users/ALONSO/CLionProjects/POO II_Second/Agregacion_Y_Polimorfismo/Volumen.cpp
+Volumen.h
+C:/Users/ALONSO/CLionProjects/POO II_Second/Agregacion_Y_Polimorfismo/Volumen.h
+
+C:/Users/ALONSO/CLionProjects/POO II_Second/Agregacion_Y_Polimorfismo/Volumen.h
+Definiciones.h
+C:/Users/ALONSO/CLionProjects/POO II_Second/Agregacion_Y_Polimorfismo/Definiciones.h
+
+C:/Users/ALONSO/CLionProjects/POO II_Second/Agregacion_Y_Polimorfismo/main.cpp
+Definiciones.h
+C:/Users/ALONSO/CLionProjects/POO II_Second/Agregacion_Y_Polimorfismo/Definiciones.h
+Volumen.cpp
+C:/Users/ALONSO/CLionProjects/POO II_Second/Agregacion_Y_Polimorfismo/Volumen.cpp
+Libro.cpp
+C:/Users/ALONSO/CLionProjects/POO II_Second/Agregacion_Y_Polimorfismo/Libro.cpp
+Revista.cpp
+C:/Users/ALONSO/CLionProjects/POO II_Second/Agregacion_Y_Polimorfismo/Revista.cpp
+Biblioteca.cpp
+C:/Users/ALONSO/CLionProjects/POO II_Second/Agregacion_Y_Polimorfismo/Biblioteca.cpp
+

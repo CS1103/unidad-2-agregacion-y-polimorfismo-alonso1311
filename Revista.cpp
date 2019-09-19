@@ -17,4 +17,9 @@ Revista::~Revista() {
 
 }
 
+int Revista::getCantidad() {
+    return numRevistas;
+}
+
+
 

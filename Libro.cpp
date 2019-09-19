@@ -16,3 +16,7 @@ void Libro::mostrar() {
     Volumen::mostrar();
     cout << "Cantidad: " << numLibros << endl;
 }
+
+int Libro::getCantidad() {
+    return numLibros;
+}
